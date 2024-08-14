@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">⚙️ I'm working on OpenSpace, MINI<br><br>💗 I love JavaScript</p>
+<p align="left">⚙️ I'm working on [OpenSpace](https://openspace.team), [MINI](https://mini.a3ldi.ru)<br><br>💗 I love JavaScript</p>
 
 ###
 
